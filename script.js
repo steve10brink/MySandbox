@@ -13,3 +13,5 @@ function plusThree(x){
 alert("your new number is " + plusThree (minusFive (timesTwo (
 	prompt("give me a number"
 		)))));
+//Hi Jase
+
