@@ -10,8 +10,8 @@ function plusThree(x){
 	return x+3;
 }
 
-alert("your new number is " + plusThree (minusFive (timesTwo (
-	prompt("give me a number"
+alert("Your new number is " + plusThree (minusFive (timesTwo (
+	prompt("Give me an integer:"
 		)))));
 //Hi Jase
 
